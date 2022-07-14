@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> siddharth jain c925e254 </title>
+<title>Siddharth Jain c925e254</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
