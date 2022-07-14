@@ -1,6 +1,6 @@
 <html>
 <body>
-<title>c925e254</title>
+<title>c925e254
 <h1> Welcome to my guessing game</h1>
 
 <?php
@@ -29,5 +29,6 @@ else
 echo "Missing guess parameter <br> Your guess is too short";
 }
 ?>
+  </title>
 </body>
 </html>
